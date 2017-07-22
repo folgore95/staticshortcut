@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:background="@color/dark"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="it.gosha98.shortcut.MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="‣ ENGLISH \n\nThis app contains an example of a static shortcut, but&#8230;\nWhat is a static shortcut?\n\nIt's a fast way to do an action with a pressure on the app icon. For using it on your phone you need Android 7.1+ and for adding it into your app you need to build with SDK 25. Also you need a launcher that supports app shortcuts.\n\n ‣ ITALIANO \n\nL'app contiene un esempio di uno shortcut statico, ma&#8230;\nCosa è uno shortcut statico?\n\nE' un modo veloce di fare un' azione con una pressione sull'icona dell'applicazione. Per utilizzarlo sul tuo telefono ti serve Android 7.1+ e per aggiungerlo sulla tua app devi buildare con SDK 25. Inoltre hai bisogno di un launcher che supporta gli shortcuts.\n " />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_image"
+        android:id="@+id/imageView4"
+        android:layout_marginTop="347dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>

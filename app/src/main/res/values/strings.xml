@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Static shortcut</string>
+    <string name="static_shortcut_message">Example of shortcut</string>
+</resources>
