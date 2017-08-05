@@ -1,5 +1,5 @@
 # Static Shortcut Example
-<img src="https://github.com/folgore95/staticshortcut/blob/master/exampleapp.png"/>
+<img src="https://github.com/folgore95/media/blob/master/staticshortcut.png"/>
 
 ## About
 
