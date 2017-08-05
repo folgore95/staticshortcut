@@ -1,4 +1,5 @@
 # Static Shortcut Example
+[![codebeat badge](https://codebeat.co/badges/71d77791-a35f-47f1-bccd-7615ae4f9bd4)](https://codebeat.co/projects/github-com-folgore95-staticshortcut-master)
 <img src="https://github.com/folgore95/media/blob/master/staticshortcut.png"/>
 
 ## About
